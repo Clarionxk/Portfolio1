@@ -12,7 +12,7 @@ const Portfolio = () => {
       id: 1,
       src: arrayDestruct,
       href: function(){
-        window.open("https://www.w3schools.com");
+        window.open("https://spiffy-cuchufli-f36462.netlify.app/");
       },
     },
     {
@@ -45,9 +45,9 @@ const Portfolio = () => {
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
         <div className="-mr-6 pt-60">
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">
-            Portfolio
+            My Services
           </p>
-          <p className="py-6">Check out some of my work right here</p>
+          <p className="py-6">Check out the services that i Provide</p>
         </div>
 
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">

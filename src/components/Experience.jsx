@@ -26,14 +26,14 @@ const Experience = () => {
     {
       id: 3,
       src: social,
-      title: "SocialBook (Marketing)",
+      title: "Social Medai Marketing",
       style: "shadow-blue-800",
     },
     {
       id: 4,
       src: taask,
-      title: "TaskMagic (Automation)",
-      style: "shadow-green-400",
+      title: "AI Automation",
+      style: "shadow-gray-600",
     },
     {
       id: 5,

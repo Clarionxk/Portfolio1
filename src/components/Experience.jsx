@@ -26,7 +26,7 @@ const Experience = () => {
     {
       id: 3,
       src: social,
-      title: "Social Medai Marketing",
+      title: "Digital Marketing",
       style: "shadow-blue-800",
     },
     {

@@ -12,7 +12,7 @@ const Portfolio = () => {
       id: 1,
       src: arrayDestruct,
       href: function(){
-        window.open("https://spiffy-cuchufli-f36462.netlify.app/");
+        window.open("https://zeilver-studios-dbcb32.ingress-comporellon.ewp.live/");
       },
     },
     {

@@ -1,3 +1,5 @@
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+
 import About from "./components/About";
 import Contact from "./components/Contact";
 import Experience from "./components/Experience";
@@ -16,11 +18,13 @@ function App() {
    <Experience />
    <Contact />
 
-
+  
 
    <SocialLinks />
     </div>
   );
 }
 
+
 export default App;
+
